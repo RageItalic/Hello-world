@@ -1,3 +1,1 @@
-hello
-hi
-how
+HELLO
