@@ -1,2 +1,1 @@
-HELLO
-HIHI
+hello
